@@ -7,7 +7,7 @@ A **Power BI**-based interactive dashboard project designed to visualize key fin
 ![image](https://github.com/user-attachments/assets/cd547469-8a03-4856-9f7b-59010f769d1c)
 
 
-## 🚀 How to Use
+##  How to Use
 
 This project includes several components to help you explore and analyze banking risk data effectively:
 
