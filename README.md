@@ -1,5 +1,5 @@
 
-# 🏦 Banking Dashboard for Credit Risk Analysis
+#  Banking Dashboard for Credit Risk Analysis
 
 A **Power BI**-based interactive dashboard project designed to visualize key financial metrics and support comprehensive **risk analysis** in a banking environment.
 
@@ -32,7 +32,7 @@ This project includes several components to help you explore and analyze banking
 
 ---
 
-## 📋 Overview
+##  Overview
 
 The dashboard is structured into several key sections, accessible via tabs:
 
@@ -45,9 +45,9 @@ It also includes a detailed **client table** and a **time-series graph**.
 
 ---
 
-## 📊 Features
+##  Features
 
-### 🏠 Home Tab
+###  Home Tab
 
 * High-level overview of core banking metrics.
 * Displays:
@@ -63,7 +63,7 @@ It also includes a detailed **client table** and a **time-series graph**.
   * **Joining Year**
   * **Gender**
 
-### 💳 Loan Analysis Tab
+###  Loan Analysis Tab
 
 * Focuses on loan-related data.
 * Metrics:
@@ -85,7 +85,7 @@ It also includes a detailed **client table** and a **time-series graph**.
   * Institutional Advisor
   * Year
 
-### 💰 Deposit Analysis Tab
+###  Deposit Analysis Tab
 
 * Focuses on deposit-related data.
 * Metrics (filtered example):
@@ -107,7 +107,7 @@ It also includes a detailed **client table** and a **time-series graph**.
   * Institutional Advisor
   * Year
 
-### 📈 Summary Tab
+###  Summary Tab
 
 * Consolidated view of key metrics.
 * Metrics:
@@ -120,13 +120,13 @@ It also includes a detailed **client table** and a **time-series graph**.
   * Institutional Advisor
   * Year
 
-### 👤 Client Detail Table
+###  Client Detail Table
 
 * Lists individual client details (6748 entries).
 
   * Name, Banking Relationship, Risk Weighting, Deposits, Loans, Income Band.
 
-### 📉 Historical Trend Visualization
+###  Historical Trend Visualization
 
 * Line chart showing:
 
@@ -135,7 +135,7 @@ It also includes a detailed **client table** and a **time-series graph**.
 
 ---
 
-## 🔍 Supporting Risk Analysis
+##  Supporting Risk Analysis
 
 This dashboard supports risk-focused insights through:
 
@@ -146,7 +146,7 @@ This dashboard supports risk-focused insights through:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 📁 Risk-Analysis-Dashboard/
