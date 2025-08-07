@@ -152,8 +152,6 @@ This dashboard supports risk-focused insights through:
 📁 Risk-Analysis-Dashboard/
 ├── Risk Analysis.pdf                  # 5-page static dashboard
 ├── banking.csv                        # Main dataset
-├── banking-eda-versions/             # EDA notebooks and versions
-├── extra-info/                       # Additional context and data views
-├── background-images/                # 5 Canva-designed backgrounds
+├── banking-eda-versions/             # EDA notebooks and versions                      
 └── README.md                         # Project documentation
 ```
